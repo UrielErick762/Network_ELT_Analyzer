@@ -1,0 +1,14 @@
+# Dados pesados
+data/
+*.csv
+*.parquet
+*.pcap
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
+venv/
